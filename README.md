@@ -1,10 +1,14 @@
 # Flutter Tutorial - QR Code Scanner App
-You need to have ide like android studio or visual studio code
-Download flutter plugins on your android studio
-Download appropriate sdk on your android studio
-Build the app
-Here we go!!
+# Learn Flutter
 
+How to run this project
+1. Download the project or clone repository, extract files and move inside project folder, and do the following
+2. Download and install  ide like android studio or visual studio code
+3. Download flutter plugins on your android studio
+4. Download appropriate sdk on your android studio
+5. Build the app
+
+Here we go!!
 
 #Lets_Us_Flutter
 
